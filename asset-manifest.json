@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://amr88nzzal.github.io/csb-nm6h4/static/css/main.2199ad4d.chunk.css",
+    "main.js": "https://amr88nzzal.github.io/csb-nm6h4/static/js/main.2eb6a6de.chunk.js",
+    "main.js.map": "https://amr88nzzal.github.io/csb-nm6h4/static/js/main.2eb6a6de.chunk.js.map",
+    "runtime-main.js": "https://amr88nzzal.github.io/csb-nm6h4/static/js/runtime-main.b576f608.js",
+    "runtime-main.js.map": "https://amr88nzzal.github.io/csb-nm6h4/static/js/runtime-main.b576f608.js.map",
+    "static/js/2.7ccefc79.chunk.js": "https://amr88nzzal.github.io/csb-nm6h4/static/js/2.7ccefc79.chunk.js",
+    "static/js/2.7ccefc79.chunk.js.map": "https://amr88nzzal.github.io/csb-nm6h4/static/js/2.7ccefc79.chunk.js.map",
+    "index.html": "https://amr88nzzal.github.io/csb-nm6h4/index.html",
+    "static/css/main.2199ad4d.chunk.css.map": "https://amr88nzzal.github.io/csb-nm6h4/static/css/main.2199ad4d.chunk.css.map",
+    "static/js/2.7ccefc79.chunk.js.LICENSE.txt": "https://amr88nzzal.github.io/csb-nm6h4/static/js/2.7ccefc79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b576f608.js",
+    "static/js/2.7ccefc79.chunk.js",
+    "static/css/main.2199ad4d.chunk.css",
+    "static/js/main.2eb6a6de.chunk.js"
+  ]
+}
